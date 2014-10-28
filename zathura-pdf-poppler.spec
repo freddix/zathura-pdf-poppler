@@ -1,7 +1,7 @@
 Summary:	PDF plugin
 Name:		zathura-pdf-poppler
 Version:	0.2.5
-Release:	1
+Release:	2
 License:	BSD-like
 Group:		Libraries
 Source0:	https://pwmt.org/projects/zathura/plugins/download/%{name}-%{version}.tar.gz
